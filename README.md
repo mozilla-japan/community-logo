@@ -20,7 +20,7 @@
 ### フォントについて
 
 - [yari の assets](https://github.com/mdn/yari/tree/main/client/src/assets/fonts) を元に使用
-- デザイン変更の際には、本リポジトリの [font](./font/) 配下にあるフォントファイルを使用するパソコンにする事
+- デザイン変更の際には、本リポジトリの [font](./font/) 配下にあるフォントファイルを使用するパソコンに登録して下さい。
   - 備考：[yari の assets](https://github.com/mdn/yari/tree/main/client/src/assets/fonts)は、拡張子が `woff`, `woff2` なので、フォントを変換する必要があります。
   - 備考：こちらのサイトで、変換しました。
     - [WOFF2 TTF 変換 - 画像ファイルをオンラインで変換する](https://www.aconvert.com/jp/image/woff2-to-ttf/)
